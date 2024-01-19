@@ -1,0 +1,10 @@
+queries_path: 'queries/test_queries.txt'
+destination_path: 'data/retrieved_articles.csv'
+email: ''
+source: 'pubmed'
+arxiv:
+  'n_results': 500
+pubmed:
+  'sort_by': 'relevance'
+  'n_results': 500
+  'date_range': 2020-01-01, 2023-12-08

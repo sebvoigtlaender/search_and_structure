@@ -1,0 +1,2 @@
+source_path: 'data/retrieved_articles.csv'
+destination_path: 'data/structured_articles.csv'
