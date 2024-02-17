@@ -10,9 +10,9 @@ dependencies:
   - hydra-core
   - pandas
   - tqdm
-  pip:
+  - pip:
     - arxiv
     - biopython
     - python-dotenv
     - ipython
-    - openai
+    - openai=0.27.0
